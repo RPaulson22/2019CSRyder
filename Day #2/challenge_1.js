@@ -21,4 +21,4 @@ function reverse(message) {
 
 console.log(reverse("hello"));
 console.log(reverse("good"));
-console.log(reverse("tacocat"))
+console.log(reverse("tacocat"));
