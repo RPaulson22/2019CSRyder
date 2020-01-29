@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://refugesunnyslope.com/wp-content/uploads/2018/11/Video-Webpage-Background.jpg");
+    background-repeat: no-repeat, repeat;
+}
+canvas {
+    background-color: lightgrey;
+    width: 1000px;
+    height: 1000px;
+}
