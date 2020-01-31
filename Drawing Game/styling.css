@@ -1,9 +1,63 @@
 body {
-    background-image: url("https://refugesunnyslope.com/wp-content/uploads/2018/11/Video-Webpage-Background.jpg");
+    background-image: url("https://www.itl.cat/pngfile/big/7-75394_25-minimalist-qhd-wallpapers-for-your-pc-or.png");
     background-repeat: no-repeat, repeat;
+    background-size: cover;
 }
 canvas {
-    background-color: lightgrey;
-    width: 1000px;
-    height: 1000px;
+    background-color: white;
+    width: 700px;
+    height: 700px;
+    display: inline-block; 
+    margin: auto;
+    padding-right: 150px;
+    padding-left: 150px;
+    opacity: 0.7;
+}
+#centContainer{
+    max-width: 1000px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-size: 400%;
+}
+#colorPicker{
+    height: 700px;
+    width: 50px;
+}
+.pRed{
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    background-color:red;
+}
+.pOrange{
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    background-color: orange;
+}
+.pYellow{
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    background-color: yellow;
+}
+.pGreen{
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    background-color: green;
+}
+.pBlue{
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    background-color: blue;
+}
+.pPurple{
+    width: 50px;
+    height: 50px;
+    border-radius:50%;
+    background-color: purple;
 }
